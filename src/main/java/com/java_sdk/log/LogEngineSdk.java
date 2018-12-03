@@ -16,7 +16,7 @@ public class LogEngineSdk {
     //获取日志打印对象
     private final static Logger logger = Logger.getGlobal();
 
-    private final static String accuess_url = "http://192.168.216.111/index.html";
+    private final static String accuess_url = "http://192.168.243.130/index.html";
     private final static String ver = "1.0";
     private final static String platformName = "java_server";
     private final static String sdkName = "java_sdk";
